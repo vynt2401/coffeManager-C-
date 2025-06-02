@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|c:\\users\\pc\\onedrive\\desktop\\oop\\appcaphe1\\appcaphe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolchonmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolchonmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolchonmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolchonmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolban.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolban.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontroltable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontroltable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\formresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\formresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\usercontrolchonmon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\usercontrolchonmon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\formresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E8A04-4060-437B-9A4D-3A4DEF2A6E3B}|appcaphe1\\appcaphe1.csproj|solutionrelative:appcaphe1\\formresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:517071165:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlHome.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlHome.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:50:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Mainform.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\Mainform.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:23:04.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form1.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form1.cs [Design]",
+              "RelativeToolTip": "appcaphe1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:12:09.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlOrder.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlOrder.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:02:44.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControlStats.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlStats.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlStats.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlStats.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:30:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChart.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlChart.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlChart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:26:59.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlAdmin.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlAdmin.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:26:08.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlHelp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlHelp.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlHelp.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlHelp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:50:54.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlDay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlDay.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlDay.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlDay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:19:27.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlCheckout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlCheckout.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlCheckout.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlCheckout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:02:41.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlChonmon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChonmon.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlChonmon.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChonmon.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlChonmon.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAOQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:36:56.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlMenu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlMenu.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlMenu.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlMenu.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAhwJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:09:53.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControlMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlMenu.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlMenu.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:50:56.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControlChonmon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChonmon.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlChonmon.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlChonmon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:02:39.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlBan.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlBan.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:26:25.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlTable.Designer.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlTable.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlTable.Designer.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlTable.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:22:34.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControlBan.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlBan.resx",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlBan.resx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlBan.resx",
+              "RelativeToolTip": "appcaphe1\\UserControlBan.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-17T07:22:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControlAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlAccount.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlAccount.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\UserControlAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:26:07.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Mainform.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\Mainform.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Mainform.cs",
+              "RelativeToolTip": "appcaphe1\\Mainform.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAhwOIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:29:38.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormResetPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormResetPassword.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\FormResetPassword.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\FormResetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:22:51.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormInformation.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\FormInformation.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\FormInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:22:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormForgotPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormForgotPassword.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\FormForgotPassword.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\FormForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:22:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form2.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\Form2.cs",
+              "ToolTip": "D:\\appcaphe1 (1)\\appcaphe1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:21:53.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form1.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form1.cs",
+              "RelativeToolTip": "appcaphe1\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:13:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserControlBan.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlBan.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlBan.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlBan.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlBan.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:17:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserControlAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlAdmin.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlAdmin.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlAdmin.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:13:35.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserControlAccount.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlAccount.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlAccount.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlAccount.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlAccount.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:02:39.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form2.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\Form2.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\Form2.cs",
+              "RelativeToolTip": "appcaphe1\\Form2.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDkAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:22:17.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormForgotPassword.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\FormForgotPassword.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormForgotPassword.cs",
+              "RelativeToolTip": "appcaphe1\\FormForgotPassword.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:24:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserControlCheckout.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlCheckout.Designer.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlCheckout.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlCheckout.Designer.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlCheckout.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFsAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:21:36.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserControlCheckout.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlCheckout.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlCheckout.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlCheckout.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlCheckout.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:36:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserControlDay.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlDay.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlDay.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlDay.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlDay.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:19:58.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserControlChart.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChart.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlChart.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChart.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlChart.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwGkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:47:46.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserControlStats.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlStats.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlStats.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlStats.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlStats.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwIAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:42:44.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormInformation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormInformation.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\FormInformation.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormInformation.cs",
+              "RelativeToolTip": "appcaphe1\\FormInformation.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:48.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserControlOrder.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlOrder.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlOrder.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlOrder.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlOrder.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:06:07.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserControlChonmon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChonmon.Designer.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\UserControlChonmon.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\UserControlChonmon.Designer.cs",
+              "RelativeToolTip": "appcaphe1\\UserControlChonmon.Designer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAD4v+sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:35:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormResetPassword.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormResetPassword.cs",
+              "RelativeDocumentMoniker": "appcaphe1\\FormResetPassword.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\oop\\appcaphe1\\appcaphe1\\FormResetPassword.cs",
+              "RelativeToolTip": "appcaphe1\\FormResetPassword.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAewHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:22:58.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

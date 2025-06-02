@@ -1,0 +1,84 @@
+D:\appcaphe1\appcaphe1\bin\Debug\appcaphe1.exe.config
+D:\appcaphe1\appcaphe1\bin\Debug\appcaphe1.exe
+D:\appcaphe1\appcaphe1\bin\Debug\EntityFramework.dll
+D:\appcaphe1\appcaphe1\bin\Debug\EntityFramework.SqlServer.dll
+D:\appcaphe1\appcaphe1\bin\Debug\System.Data.SQLite.dll
+D:\appcaphe1\appcaphe1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\appcaphe1\appcaphe1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\appcaphe1\appcaphe1\bin\Debug\EntityFramework.xml
+D:\appcaphe1\appcaphe1\bin\Debug\EntityFramework.SqlServer.xml
+D:\appcaphe1\appcaphe1\bin\Debug\System.Data.SQLite.xml
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.csproj.AssemblyReference.cache
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.Form2.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.FormForgotPassword.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.FormInformation.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.FormResetPassword.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.Mainform.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.Properties.Resources.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlHelp.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlStats.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.csproj.GenerateResource.cache
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.csproj.CoreCompileInputs.cache
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.csproj.Up2Date
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.exe
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.pdb
+D:\appcaphe1\appcaphe1\bin\Debug\appcaphe1.pdb
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlMenu.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlHome.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlAccount.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlOrder.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlCheckout.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlChonmon.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlChart.resources
+D:\appcaphe1\appcaphe1\bin\Debug\appcaphe1.exe.manifest
+D:\appcaphe1\appcaphe1\bin\Debug\appcaphe1.application
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.exe.manifest
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.application
+D:\appcaphe1\appcaphe1\bin\Debug\Bunifu_UI_v1.52.dll
+D:\appcaphe1\appcaphe1\bin\Debug\AlphaBlendTextBox.dll
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlAdmin.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlTable.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.Form1.resources
+D:\appcaphe1\appcaphe1\obj\Debug\appcaphe1.UserControlDay.resources
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\appcaphe1.exe.config
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\appcaphe1.exe.manifest
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\appcaphe1.application
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\appcaphe1.exe
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\appcaphe1.pdb
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\EntityFramework.dll
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\EntityFramework.SqlServer.dll
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\System.Data.SQLite.dll
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\EntityFramework.xml
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\EntityFramework.SqlServer.xml
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\System.Data.SQLite.xml
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.csproj.AssemblyReference.cache
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.Form1.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.Form2.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.FormForgotPassword.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.FormInformation.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.FormResetPassword.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.Mainform.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.Properties.Resources.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlAdmin.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlAccount.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlChart.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlDay.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlTable.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlCheckout.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlChonmon.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlHelp.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlHome.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlMenu.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlOrder.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.UserControlStats.resources
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.csproj.GenerateResource.cache
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.csproj.CoreCompileInputs.cache
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.exe.manifest
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.application
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.csproj.Up2Date
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.exe
+D:\appcaphe1 (1)\appcaphe1\obj\Debug\appcaphe1.pdb
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\AlphaBlendTextBox.dll
+D:\appcaphe1 (1)\appcaphe1\bin\Debug\Bunifu_UI_v1.52.dll

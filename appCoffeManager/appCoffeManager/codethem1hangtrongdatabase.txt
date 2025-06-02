@@ -1,0 +1,4 @@
+﻿INSERT INTO Staff (ID, Name, Address, `Number phone`, Position) 
+VALUES (4, 'Tran Van B', 'HCM', '9876', 'Staff');
+
+Rowheadervisible= false thuoc tinh xoa hang cuoi cung
